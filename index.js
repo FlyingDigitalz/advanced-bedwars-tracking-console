@@ -46,4 +46,4 @@ setInterval(function(){
     catch(e){
         console.log(`[!] Error occured while reading file: ${e.message}`)
     }
-}, client_config.debug_interval*1000)
+}, client_config.interval*1000)
