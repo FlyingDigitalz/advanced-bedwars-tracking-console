@@ -16,3 +16,4 @@ A personal bedwars player statistics tracker using hypixel API with pure .json
 - **Interval** Set interval (40-60 is recommended), A smaller integer will decrease delay, also the number of players to trace *e.g. "interval": "60" (File path: ./config/client.json)*
 
 # How it works
+![IMG](https://github.com/FlyingDigitalz/personal-bedwars-tracker/blob/main/asset/img/howitworks_flowchart.png)
