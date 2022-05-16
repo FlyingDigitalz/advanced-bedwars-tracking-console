@@ -1,0 +1,34 @@
+{
+  "name": "flying-tracker",
+  "version": "1.0.0",
+  "description": "Personal bedwars player statistics tracker using hypixel API",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo node version: & node -v & node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlyingDigitalz/personal-bedwars-tracker.git"
+  },
+  "keywords": [
+    "flyingdigitalz",
+    "hypixel",
+    "hypixel",
+    "tracker",
+    "tracker",
+    "player",
+    "tracker",
+    "bw",
+    "bedwars"
+  ],
+  "author": "FlyingDigitalz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlyingDigitalz/personal-bedwars-tracker/issues"
+  },
+  "homepage": "https://github.com/FlyingDigitalz/personal-bedwars-tracker#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.4"
+  }
+}
