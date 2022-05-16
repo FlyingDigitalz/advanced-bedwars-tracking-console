@@ -6,5 +6,4 @@ A personal bedwars player statistics tracker using hypixel API with pure .json
 - Retrieve key using /api new on hypixel and paste api key in ./config/client.json
 
 # Configuration
-## Insert Player
-- File located in ./config/player.json Insert uuid of a player and system will automatically detect a new player next time you run the application
+- **Insert Players** Insert player UUID in ./config/player.json, application will automatically detect a new player and start tracking *e.g. ["8e631fb53992414994d607daa099887a", "b8e1f7934f774dc0abbcb2830a8724e6"]*
