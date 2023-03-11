@@ -1,5 +1,5 @@
-# Personal Bedwars Tracker
-A personal bedwars player statistics tracker using hypixel API with pure .json
+# Advanced Bedwars Tracing Console
+A minimal bedwars player statistics tracker using hypixel API with pure .json
 
 # Requirements
 - Node.js (v.16.15 recommended)
