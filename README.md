@@ -1,4 +1,4 @@
-# Advanced Bedwars Tracing Console
+# Advanced Bedwars Tracking Console
 A minimal bedwars player statistics tracker using hypixel API with pure .json
 
 # Requirements
